@@ -16,7 +16,7 @@ limitations under the License.
 
 package samplecontroller
 
-// GroupName is the group name used in this package
+// GroupName is the group name used in this package , this will be seen in cli 
 const (
 	GroupName = "samplecontroller.k8s.io"
 )
